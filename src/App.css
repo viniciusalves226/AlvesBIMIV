@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.div_label {
+margin-top: 5px;
+display:  flex;
+flex-direction: column;
+padding: 5px 5px;
+}
+
+.div_3{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.Top{
+ display: flex;
+ flex-direction: column;
+}
